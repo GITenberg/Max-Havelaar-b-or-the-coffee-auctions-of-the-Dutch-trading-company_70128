@@ -1,0 +1,47 @@
+_repo: Max-Havelaar-b-or-the-coffee-auctions-of-the-Dutch-trading-company_70128
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Nahuys, Alphonse
+    aliases:
+    - Nahuÿs, Alphonse
+    - Nahuys, Alphonse Johan Bernard Horstmar, Baron
+    gutenberg_agent_id: '55613'
+    url: http://www.gutenberg.org/2009/agents/55613
+creator:
+  author:
+    agent_name: Multatuli
+    alias: Dekker, Eduard Douwes
+    birthdate: 1820
+    deathdate: 1887
+    gutenberg_agent_id: '3624'
+    url: http://www.gutenberg.org/2009/agents/3624
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Eduard_Douwes_Dekker
+    - https://en.wikipedia.org/wiki/Multatuli
+description: ''
+gutenberg_issued: '2023-02-24'
+identifiers:
+  gutenberg: '70128'
+language: en
+pgterms:marc905: 20090629131007dekker
+pgterms:marc906: '1868'
+pgterms:marc907: en
+production_note: Michael Roe, Jeroen Hellingman and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aen :$bEdmonston and Douglas, $c1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Culture conflict -- Fiction'
+- !lcsh 'Colonies -- Oceania -- Fiction'
+- !lcsh 'Dutch -- Indonesia -- Fiction'
+- !lcsh 'Java (Indonesia) -- Fiction'
+- !lcsh 'Persona (Literature)'
+- !lcsh 'Coffee industry -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: Max Havelaar; $b or, the coffee auctions of the Dutch trading company
+url: http://www.gutenberg.org/ebooks/70128
