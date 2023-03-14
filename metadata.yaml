@@ -8,6 +8,9 @@ contributor:
     - Nahuys, Alphonse Johan Bernard Horstmar, Baron
     gutenberg_agent_id: '55613'
     url: http://www.gutenberg.org/2009/agents/55613
+covers:
+- cover_type: archival
+  image_path: 70128-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Multatuli
@@ -20,6 +23,8 @@ creator:
     - https://nl.wikipedia.org/wiki/Eduard_Douwes_Dekker
     - https://en.wikipedia.org/wiki/Multatuli
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70128#Max-Havelaar-b-or-the-coffee-auctions-of-the-Dutch-trading-company
 gutenberg_issued: '2023-02-24'
 identifiers:
   gutenberg: '70128'
